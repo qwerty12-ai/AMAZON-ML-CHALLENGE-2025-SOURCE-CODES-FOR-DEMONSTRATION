@@ -2,10 +2,11 @@
 
 **Team Name:** PrimeVision  
 **Team Lead:** Mohd abdul sabeeh
-**Team Members:** 
-. Mohammad Sufiyan
-. Venkat Pavan Kotwal Bakth
-. Praveen Kumar
+**Team Members:**
+- Mohammad Sufiyan
+- Venkat Pavan Kotwal Bakth
+- Praveen Kumar
+
 **Submission Date:** 13 Oct 25, 06:28 PM IST
 
 ---
