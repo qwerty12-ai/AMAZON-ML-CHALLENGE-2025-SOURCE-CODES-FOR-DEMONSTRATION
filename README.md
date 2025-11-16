@@ -45,7 +45,7 @@ Endured frustration, sleepless nights, and self-doubt—but also growth, patienc
 
 This challenge taught me that growth isn’t linear. Every failed attempt added experience equivalent to months of work in a compressed timeframe.
 
-For more details visit my linkedln post: (post)[https://www.linkedin.com/posts/mohd-abdul-sabeeh-38429a2ba_machinelearning-amazonmlchallenge-hackathonjourney-activity-7383767855332454400-uWvI]
+For more details visit my linkedln post: [post](https://www.linkedin.com/posts/mohd-abdul-sabeeh-38429a2ba_machinelearning-amazonmlchallenge-hackathonjourney-activity-7383767855332454400-uWvI)
 
 
 ---
